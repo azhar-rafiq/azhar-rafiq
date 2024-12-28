@@ -8,7 +8,7 @@
 - 💬 Ask me about Medical Stuff
 - 📫 How to reach me: [Instagram](https://instagram.com/azharrafiqid) or [LinkedIn](https://linkedin.com/in/azhar-rafiq)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I finished my M.D. degree
+- ⚡ Fun fact: I finished my M.D. degree, and I am going to study at the University of Birmingham in 2025
 <!--
 **azhar-rafiq/azhar-rafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +31,7 @@ Software Development:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
