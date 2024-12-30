@@ -54,4 +54,5 @@ Data Science:
 ## 🏆 **Top Langs**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-rafiq&show_icons=true&theme=dark)](https://github.com/azhar-rafiq/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=azhar-rafiq)
 [![Views](https://visitcount.itsvg.in/api?id=azhar-rafiq&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
