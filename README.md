@@ -1,14 +1,14 @@
 ### Hi there 👋
 ## My name is Azhar Rafiq 😀
 
-- 🔭 I’m currently working on [**Med Stud Games**](https://medstudgames.com/download) & [**Isu Sehat**](https://isusehat.com)
+- 🔭 I’m currently working on [**Isu Sehat**](https://isusehat.com) and a couple other personal projects
 - 🌱 I’m currently learning Tensorflow
 - 👯 I’m looking to collaborate on Flutter Projects
 - 🤔 I’m looking for help with Data Engineering
 - 💬 Ask me about Medical Stuff
 - 📫 How to reach me: [Instagram](https://instagram.com/azharrafiqid) or [LinkedIn](https://linkedin.com/in/azhar-rafiq)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I finished my M.D. degree, and I am going to study at the University of Birmingham in 2025
+- ⚡ Fun fact: I finished my M.D. degree, and I am currently studying at the University of Birmingham, UK. Also, I created Med Stud Games, but the server is currently offline.
 <!--
 **azhar-rafiq/azhar-rafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
