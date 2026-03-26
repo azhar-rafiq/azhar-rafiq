@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 Currently working on **CT scan classification & segmentation for Explainable AI** (MSc thesis), recently do **[BiasCheck](https://github.com/azhar-rafiq/BiasCheck)** — a real-time news bias & misinformation analyzer
+- 🔭 Currently working on **CT scan classification & segmentation for Explainable AI** (MSc thesis), recently do **[BiasCheck](https://github.com/CrawfoBP23/BiasCheck)** — a real-time news bias & misinformation analyzer
 - 🌱 Currently learning **advanced feature selection methods**, **deep learning for medical imaging**, and **population health data science**
 - 🧠 Past projects include an **NLP medical scribe**, a **lung abnormality triage model**, and a **CNN for oral cancer classification** (89.3% AUC)
 - 💬 Ask me about **medicine, health AI, fullstack web dev, or hackathons**
