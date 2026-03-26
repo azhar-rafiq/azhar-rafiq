@@ -1,58 +1,73 @@
 ### Hi there 👋
-## My name is Azhar Rafiq 😀
 
-- 🔭 I’m currently working on [**Isu Sehat**](https://isusehat.com) and a couple other personal projects
-- 🌱 I’m currently learning Tensorflow
-- 👯 I’m looking to collaborate on Flutter Projects
-- 🤔 I’m looking for help with Data Engineering
-- 💬 Ask me about Medical Stuff
-- 📫 How to reach me: [Instagram](https://instagram.com/azharrafiqid) or [LinkedIn](https://linkedin.com/in/azhar-rafiq)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I finished my M.D. degree, and I am currently studying at the University of Birmingham, UK. Also, I created Med Stud Games, but the server is currently offline.
-<!--
-**azhar-rafiq/azhar-rafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Azhar Rafiq — Doctor turned Developer & Health Data Scientist
 
-Here are some ideas to get you started:
+🎓 MSc Health Data Science @ University of Birmingham (2025–2026)  
+🩺 Medical Doctor (M.D.) with a passion for clinical AI  
+🏆 1st Place — HealthAI Hack 2026 (Cardiac Tamponade Detector) @ HealthTech AI Hub, UoB  
+🏆 1st Place — AI Tackling Misinformation & Capture the Flag @ birmingHack 2026  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🖥️ **My Tech Stack**
-Software Development:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+---
+
+- 🔭 Currently working on **CT scan classification & segmentation for Explainable AI** (MSc thesis), recently do **[BiasCheck](https://github.com/azhar-rafiq/BiasCheck)** — a real-time news bias & misinformation analyzer
+- 🌱 Currently learning **advanced feature selection methods**, **deep learning for medical imaging**, and **population health data science**
+- 🧠 Past projects include an **NLP medical scribe**, a **lung abnormality triage model**, and a **CNN for oral cancer classification** (89.3% AUC)
+- 💬 Ask me about **medicine, health AI, fullstack web dev, or hackathons**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/azhar-rafiq) · [Website](https://azharrafiq.com)
+- ⚡ Fun fact: I've built and deployed production apps across **3 continents** (Asia, Europe, and North America) and mass-analyzed bias in news articles using async LLM pipelines
+
+---
+
+## 🖥️ Tech Stack
+
+**Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Web & Backend**
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Data Science & ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**DevOps & Infrastructure**
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Data Science:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+**Databases**
 
-## 📊 **Github Stats**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=azhar-rafiq&theme=dark)](https://git.io/streak-stats)
+
 [![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=azhar-rafiq&show_icons=true&theme=dark)](https://github.com/azhar-rafiq/github-readme-stats)
 
-## 🏆 **Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-rafiq&show_icons=true&theme=dark)](https://github.com/azhar-rafiq/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-rafiq&layout=compact&show_icons=true&theme=dark)](https://github.com/azhar-rafiq/github-readme-stats)
+
+---
 
 ![](https://komarev.com/ghpvc/?username=azhar-rafiq)
-[![Views](https://visitcount.itsvg.in/api?id=azhar-rafiq&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
