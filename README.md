@@ -14,7 +14,7 @@
 - 🧠 Past projects include an **NLP medical scribe**, a **lung abnormality triage model**, and a **CNN for oral cancer classification** (89.3% AUC)
 - 💬 Ask me about **medicine, health AI, fullstack web dev, or hackathons**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/azhar-rafiq) · [Website](https://azharrafiq.com)
-- ⚡ Fun fact: I've built and deployed production apps across **3 continents** (Asia, Europe, and North America) and mass-analyzed bias in news articles using async LLM pipelines
+- ⚡ Fun fact: I've built a C++ game that run in Ubuntu and Windows
 
 ---
 
@@ -40,10 +40,16 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![PyWavelets](https://img.shields.io/badge/PyWavelets-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23189FDD.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-%2300A86B.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **DevOps & Infrastructure**
 
