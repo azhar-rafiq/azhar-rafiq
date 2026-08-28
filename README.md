@@ -3,7 +3,7 @@
 ## I'm Azhar Rafiq — Doctor turned Developer & Health Data Scientist
 
 🎓 MSc Health Data Science @ University of Birmingham (2025–2026)  
-🩺 Medical Doctor (M.D.) with a passion for clinical AI  
+🩺 Medical Doctor (M.D.) with a passion for computer vision, clinical imaging and AI
 🏆 1st Place — HealthAI Hack 2026 (Cardiac Output Predictor) @ HealthTech AI Hub, University of Birmingham  
 🏆 1st Place — AI Tackling Misinformation & Capture the Flag @ birmingHack 2026  
 
