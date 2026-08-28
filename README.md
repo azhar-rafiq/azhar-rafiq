@@ -3,14 +3,14 @@
 ## I'm Azhar Rafiq — Doctor turned Developer & Health Data Scientist
 
 🎓 MSc Health Data Science @ University of Birmingham (2025–2026)  
-🩺 Medical Doctor (M.D.) with a passion for computer vision, clinical imaging and AI
+🩺 Medical Doctor (M.D.) with a passion for computer vision, clinical imaging and AI  
 🏆 1st Place — HealthAI Hack 2026 (Cardiac Output Predictor) @ HealthTech AI Hub, University of Birmingham  
 🏆 1st Place — AI Tackling Misinformation & Capture the Flag @ birmingHack 2026  
 
 ---
 
 - 🔭 Currently working on **CT scan classification & segmentation for Explainable AI** (MSc thesis), recently do **[BiasCheck](https://github.com/CrawfoBP23/BiasCheck)** — a real-time news bias & misinformation analyzer
-- 🌱 Currently learning **advanced feature selection methods**, **deep learning for medical imaging**, and **population health data science**
+- 🌱 Currently learning **explainibility AI**, **deep learning for medical imaging**, and **causal inference**
 - 🧠 Past projects include an **NLP medical scribe**, a **lung abnormality triage model**, and a **CNN for oral cancer classification** (89.3% AUC)
 - 💬 Ask me about **medicine, health AI, fullstack web dev, or hackathons**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/azhar-rafiq) · [Website](https://azharrafiq.com)
